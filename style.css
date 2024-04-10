@@ -6,7 +6,7 @@
     flex-direction: row;
     justify-content: space-evenly;
 }
-@media all (max-width:1080px){
+@media all (max-width:1100px){
     .navbar{
         background-color: red;
         background-size: cover;
