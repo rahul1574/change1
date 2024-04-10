@@ -1,0 +1,40 @@
+.navbar{
+    height: 100px;
+    background-color: black;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+@media(max-width:1080px){
+    .navbar{
+        background-color: red;
+        background-size: cover;
+        flex-direction:column;
+        height: 150px;
+    }
+}
+.one{
+    height: 30px;
+    width: 30px;
+}
+.two{
+    height: 30px;
+    width: 30px;
+    color: white;
+}
+.three{
+    height: 30px;
+    width: 30px;
+    color: white;
+}
+.four{
+    height: 30px;
+    width: 30px;
+    color: white;
+}
+.five{
+    height: 30px;
+    width: 30px;
+    color: white;
+}
